@@ -35,13 +35,13 @@ All tasks are dynamically updated with React hooks and state management.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-todo.git
+git clone https://github.com/IntanWp/React-To-do-list-Web-App
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd react-todo
+cd React-To-do-list-Web-App
 ```
 
 3. Install dependencies:
